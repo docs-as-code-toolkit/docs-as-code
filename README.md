@@ -34,7 +34,7 @@ A Docker image with everything you need:
 * Graphviz
 * Fonts & PDF tooling
 
-👉 Run the same environment locally and in CI.
+👉 [Run the same environment locally and in CI](https://github.com/docs-as-code-toolkit/docs-toolbox).
 
 ---
 
@@ -69,6 +69,8 @@ Real-world usage of the toolkit:
 * CV generation
 * architecture documentation
 
+👉 [Profile of Dieter Baier](https://github.com/dieterbaier/profile).
+
 ---
 
 ## 🧭 Philosophy
@@ -93,7 +95,7 @@ docker run --rm \
   -v $(pwd):/app \
   -w /app \
   ghcr.io/docs-as-code-toolkit/docs-toolbox:latest \
-  ./gradlew buildSite
+  asciidoctor -v
 ```
 
 ---
