@@ -32,7 +32,7 @@ A Docker image with everything you need:
 * Asciidoctor
 * Pandoc
 * Graphviz
-* Fonts & PDF tooling
+* ...
 
 👉 [Run the same environment locally and in CI](https://github.com/docs-as-code-toolkit/docs-toolbox).
 
