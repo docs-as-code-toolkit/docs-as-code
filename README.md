@@ -2,12 +2,11 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 
 > Part of the **Docs-as-Code Toolkit**  
-> → https://github.com/docs-as-code-toolkit
+> → [https://github.com/docs-as-code-toolkit](https://github.com/docs-as-code-toolkit)
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 2rem">
-<img src="https://docs-as-code-toolkit.github.io/docs-as-code/assets/logo/toolkit-logo_160.png"/>
-<h1>Docs-as-Code Toolkit</h1>
-</div>
+![docs-as-code-toolkit-logo](https://docs-as-code-toolkit.github.io/docs-as-code/assets/logo/toolkit-logo_160.png)
+
+# Docs-as-Code Toolkit
 
 > Build documentation like software.
 >
