@@ -1,12 +1,9 @@
+# Docs-as-Code Toolkit
 ![Docs-as-Code](https://img.shields.io/badge/Docs--as--Code-Toolkit-blue)
-![Docker](https://img.shields.io/badge/Docker-ready-blue)
-
+> ![docs-as-code-toolkit-logo](https://docs-as-code-toolkit.github.io/docs-as-code/assets/logo/toolkit-logo_160.png)
+>
 > Part of the **Docs-as-Code Toolkit**  
 > → [https://github.com/docs-as-code-toolkit](https://github.com/docs-as-code-toolkit)
-
-![docs-as-code-toolkit-logo](https://docs-as-code-toolkit.github.io/docs-as-code/assets/logo/toolkit-logo_160.png)
-
-# Docs-as-Code Toolkit
 
 > Build documentation like software.
 >
