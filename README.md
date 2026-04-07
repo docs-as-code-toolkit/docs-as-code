@@ -2,7 +2,7 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 
 <div style="display: flex; gap: 1rem; flex-wrap: wrap">
-<img src="assets/toolkit-logo_160.png"/>
+<img src="https://docs-as-code-toolkit.github.io/docs-as-code/assets/logo/toolkit-logo_160.png"/>
 <h1>Docs-as-Code Toolkit</h1>
 </div>
 
