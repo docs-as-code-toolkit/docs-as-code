@@ -1,11 +1,14 @@
 ![Docs-as-Code](https://img.shields.io/badge/Docs--as--Code-Toolkit-blue)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 
-# 🚀 Docs-as-Code Toolkit
+<div style="display: flex; gap: 1rem; flex-wrap: wrap">
+<img src="assets/toolkit-logo_160.png"/>
+<h1>Docs-as-Code Toolkit</h1>
+</div>
 
-Build documentation like software.
-
-Versioned. Reproducible. Automated.
+> Build documentation like software.
+>
+>Versioned. Reproducible. Automated.
 
 ---
 
