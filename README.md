@@ -22,6 +22,12 @@ It’s a **complete Docs-as-Code ecosystem** that helps you:
 * structure and connect architecture documentation
 * treat documentation as a **first-class artifact**
 
+It operates one layer above publishing: source documents, metadata, relations,
+and review workflows remain the authoritative knowledge base; generated
+documentation is a derived artifact. It can also be rendered and published by
+docToolchain or similar tools, while this project's docs-toolbox provides the
+necessary tools for local and CI-based rendering as well.
+
 ---
 
 ## 🧩 The Toolkit
@@ -53,12 +59,43 @@ Reusable styling for:
 
 ### 🧠 Automation
 
+**architecture-knowledge-toolkit**
+Reusable architecture knowledge structures:
+
+* semantic contracts
+* metadata conventions
+* artifact templates
+* traceability relations
+* review workflows
+* AI-assistable skills
+
+👉 [Structure, relate, review, and evolve architecture knowledge](https://github.com/docs-as-code-toolkit/architecture-knowledge-toolkit).
+
+---
+
 **doc-generators** *(planned)*
 Generate dynamic documentation:
 
 * cross-links
 * traceability
 * architecture views
+
+---
+
+## Relationship to docToolchain
+
+This project is not intended to compete with docToolchain.
+
+[docToolchain](https://github.com/docToolchain) is a mature Docs-as-Code
+toolchain for building, converting, publishing, and integrating technical and
+software architecture documentation. The Docs-as-Code Toolkit focuses on the
+layer above publishing: reproducible source workflows, structured architecture
+knowledge, metadata, traceability, reviewability, and automation-friendly
+conventions.
+
+Both approaches can be combined. This toolkit can provide structured AsciiDoc
+sources and metadata, while docToolchain or similar tools render and publish the
+resulting documentation.
 
 ---
 
